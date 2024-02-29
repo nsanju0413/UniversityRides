@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "981689997276",
+    "project_id": "university-ride-s",
+    "storage_bucket": "university-ride-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981689997276:android:f1be748d7d68c4df6be119",
+        "android_client_info": {
+          "package_name": "com.university.ridess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTvb7tSlveTOVRfXJiiB1sYzLMxeM2zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981689997276:android:940a2f76566159896be119",
+        "android_client_info": {
+          "package_name": "com.universityrides"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTvb7tSlveTOVRfXJiiB1sYzLMxeM2zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
